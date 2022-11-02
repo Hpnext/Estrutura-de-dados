@@ -268,6 +268,7 @@ main(void){
 
 	}
 
+
 	free(line);
 
   colocar_fila(p,p2,fila,fila2);
